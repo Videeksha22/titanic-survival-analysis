@@ -52,9 +52,9 @@ The `train.csv` file from Kaggle is used and renamed as `titanic.csv`.
 2. Navigate to the project directory:
    ```bash
    cd Titanic-ML-Classification
-3. Install required dependencies:
+4. Install required dependencies:
    ```bash
    pip install -r requirements.txt
-4. Open the notebook:
+5. Open the notebook:
    ```bash
    jupyter notebook Titanic_final.ipynb
